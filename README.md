@@ -42,8 +42,8 @@
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/agosvenezia"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="agosvenezia" /></a></p><br><br>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=agosvenezia&show_icons=true&locale=en" alt="agosvenezia" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=agosvenezia&" alt="agosvenezia" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=agosvenezia&show_icons=true&locale=en" alt="agosvenezia" width="450" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=agosvenezia&" alt="agosvenezia" width="450" /></p>
 
 <!--
 **AgosVenezia/AgosVenezia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -13,7 +13,7 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=agosvenezia&show_icons=true&locale=en&layout=compact" alt="agosvenezia" />
 
-- 🔭 I’m currently working on [Club CED](https://github.com/AgosVenezia/Integrador_Grupo2)
+- 🔭 I’m currently working on [Club CED](https://github.com/AgosVenezia/Integrador_Grupo2) and [Barbería Alura](https://github.com/AgosVenezia/Barberia-Alura)
 
 - 🌱 I’m currently learning **Django, Flutter and Avalanche.**
 
